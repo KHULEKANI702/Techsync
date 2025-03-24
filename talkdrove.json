@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃",
+    "bot-name": "Techsync",
     "description": "𝗃𝖺𝗏𝖺𝗌𝖼𝗋𝗂𝗉𝗍 𝗐𝗁𝖺𝗍𝗌𝖺𝗉𝗉 𝖻𝗈𝗍 𝖼𝗈𝖽𝖾𝖽 𝖻𝗒 𝗆𝗏𝖾𝗅𝖺𝗌𝖾 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗒",
     "logo": "https://files.catbox.moe/sdv3qh.png",
     "keywords": ["bot"],
@@ -23,7 +23,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": ".,~,!,?,&,/,#",
+      "value": "!",
     },
     
     "MODE": {

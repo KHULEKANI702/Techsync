@@ -1,9 +1,33 @@
+/*
+       𓋜  ＢＯＴ ＮＡＭＥ ⇩
+         
+        Ｔｅｃｈｓｙｎｃ
+         
+       𓋜 ＢＯＴ ＯＷＮＥＲ ⇩
+         
+         Ｋｈｕｌｅｋａｎｉ Ｍｖｅｌａｓｅ
+         
+       𓋜 ＤＥＶＥＬＯＰＥＲ ⇩
+         
+         Ｍｖｅｌａｓｅ Ｔｅｃｈｎｏｌｏｇｙ
+         
+       𓋜 ＤＥＶ ＬＯＣＡＴＩＯＮ ⇩
+         
+         Ｚｉｍｂａｂｗｅ,Ｂｕｌａｗａｙｏ
+         
+       𓋜 ＴＥＡＭ ＮＡＭＥ ⇩
+         
+         Ｔｅｃｈｇｕｙｓ
+         
+*/
+
+
+
 const { cmd } = require('../command');
 const config = require('../config');
 
 cmd({
-    pattern: "owner",
-    alias: ["author", "Techsync"],
+    pattern: "owner", "developer", "creator",
     react: "✅", 
     desc: "Get owner number",
     category: "main",
@@ -30,8 +54,9 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://raw.githubusercontent.com/mvelase-ofc/Techsync/main/assets/Techsync-menu.png' }, // Image URL from your request
-            caption: `╭───⟮ ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ⟯───┈⊷
+            image: { url: 'https://files.catbox.moe/sdv3qh.png' }, // Image URL from your request
+            caption: `
+╭───⟮ ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ⟯───┈⊷
 │⳺╭─────────────┈⊷
 │⳺│☍ ʙᴏᴛ-ɴᴀᴍᴇ : ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ
 │⳺│☍ ᴏᴡɴᴇʀ-ɴᴀᴍᴇ : *${ownerName}*
@@ -47,7 +72,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363411325763461@newsletter',
-                    newsletterName: 'ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ᴏᴡɴᴇʀ🍁',
+                    newsletterName: 'ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ᴏᴡɴᴇʀ',
                     serverMessageId: 143
                 }            
             }

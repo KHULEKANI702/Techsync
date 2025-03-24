@@ -53,7 +53,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/mvelase-ofc/Techsync;
+    const githubRepo = 'https://github.com/mvelase-ofc/Techsync';
 
     // Check update status
     let updateMessage = `✅ 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐈𝐒 𝐔𝐏 𝐓𝐎 𝐃𝐀𝐓𝐄`;

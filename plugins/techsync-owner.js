@@ -27,7 +27,7 @@ const { cmd } = require('../command');
 const config = require('../config');
 
 cmd({
-    pattern: "owner", "developer", "creator",
+    pattern: "owner",
     react: "✅", 
     desc: "Get owner number",
     category: "main",

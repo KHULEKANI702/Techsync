@@ -35,7 +35,7 @@ cmd(
         try {
             // Check if the user provided a name
             if (!args || args.length === 0) {
-                return reply("❌ *Invalid format!*\n\n⟶ Usage: `.vcard <Name>`\n⟶ Example: `.vcard Lord Kerm`\n\nℹ️ You must provide a name for the contact.");
+                return reply("❌ *Invalid format!*\n\n⟶ Usage: `.vcard <Name>`\n⟶ Example: `.vcard Mvelase`\n\nℹ️ You must provide a name for the contact.");
             }
 
             // Check if the user replied to a message

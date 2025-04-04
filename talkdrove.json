@@ -32,10 +32,35 @@
        "value":"false",
        "required": false
     },
-     "ALWAYS_ONLINE": {
-       "description": "Keep your WhatsApp always online put true to activate (e.g, true)",
-       "value":"false",
-       "required": false
+    "ALWAYS_ONLINE": {
+      "description": "Keep your WhatsApp always online put true to activate (e.g, true)",
+      "value":"false",
+      "required": false
+    }, 
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "263711337094"
+    },
+    "AUTO_REACT": {
+      "description": "Make it true if you want react on every message.",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "Make it true if you want auto typing.",
+      "required": false,
+      "value": "false"
+    },  
+    "AUTO_RECORDING": {
+      "description": "Make it true if you want auto recoding.",
+      "required": false,
+      "value": "false"
+    },   
+    "CUSTOM_REACT": {
+      "description": "Make it true if you want custom reactions.",
+      "required": true,
+      "value": "true"
     }
   }
 }

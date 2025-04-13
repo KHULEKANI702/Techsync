@@ -37,7 +37,7 @@ cmd({
 
         // Vérification de la structure de la réponse
         if (!response || !response.data || !response.data.result) {
-            return reply("❌ No response received from the Malvin API. Please try again later.");
+            return reply("❌ No response received from the Mvelase API. Please try again later.");
         }
 
         // Extraire uniquement le texte de la réponse (le prompt)

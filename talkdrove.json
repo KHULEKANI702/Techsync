@@ -3,64 +3,39 @@
     "description": "a whatsapp bot created by mvelase technology",
     "logo": "https://files.catbox.moe/sdv3qh.png",
     "keywords": ["bot"],
-    "documentation-link": "https://techsync-pair8.onrender.com",
+    "documentation-link": "https://techsync-session-id8.onrender.com",
     "owner-verification":"mvelaseaitechnology@gmail.com",
   
     "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with techsync-md-",
+      "description": "Put your SESSION_ID here. Make sure it starts with Techsync-MD",
       "value": "",
       "required": true
     },
     "PREFIX": {
-      "description": "Bot command prefix, (e.g, . , ! @ etc)",
+      "description": "Techsync command prefix, (e.g, . , !, & , @ etc)",
       "value": ".",
       "required": true
     },
     "MODE": {
-      "description": "Bot mode can be public, private, inbox, or groups (in lowercase) (e.g., public)",
+      "description": "Techsync mode can be public, private, inbox, or groups (in lowercase) (e.g., public)",
       "value": "private",
       "required": true    
     },
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "write your bot name here (for example Techsync).",
       "required": true,
-      "value": "Techsync"      
-    },
-    "ANTI_LINK": {
-      "description": "Bot delete or kick links sender from group, To Enable put true and to disable put false (e.g, true)",
-       "value":"false",
-       "required": false
-    },
-    "ALWAYS_ONLINE": {
-      "description": "Keep your WhatsApp always online put true to activate (e.g, true)",
-      "value":"false",
-      "required": false
-    }, 
-    "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "required": false,
-      "value": "263711337094"
-    },
-    "AUTO_REACT": {
-      "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "value": "Techsync"
     },
     "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
+      "description": "make it true if you want auto typing on your Techsync.",
       "required": false,
       "value": "false"
-    },  
-    "AUTO_RECORDING": {
-      "description": "Make it true if you want auto recoding.",
+    }, 
+    "OWNER_NUMBER": {
+      "description": "paste your whatsapp number you used to link the device",
       "required": false,
-      "value": "false"
-    },   
-    "CUSTOM_REACT": {
-      "description": "Make it true if you want custom reactions.",
-      "required": true,
-      "value": "true"
+      "value": "263711337094"
     }
   }
 }

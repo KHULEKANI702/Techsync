@@ -61,7 +61,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
    
 READ_CMD: process.env.READ_CMD || "false",
  
-DEV: process.env.DEV || "263717777643",
+DEV: process.env.DEV || "263782627612",
         
 ANTI_VV: process.env.ANTI_VV || "true",
  

@@ -72,7 +72,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
-console.log("Session downloaded Successfully ✅")
+console.log("[☠️] Session downloaded Successfully ✅")
 })})}
 
 const express = require("express");
@@ -82,7 +82,7 @@ const port = process.env.PORT || 9090;
   //=============================================
   
   async function connectToWA() {
-  console.log("Connecting Techsync");
+  console.log("[🌙] Connecting Techsync");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -102,27 +102,27 @@ const port = process.env.PORT || 9090;
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('Installing Techsync Plugins')
+  console.log('[🌍] Installing Techsync Plugins')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
   require("./plugins/" + plugin);
   }
   });
-  console.log('Techsync Plugins Installed Successfully ✅')
-  console.log('Techsync Connected To Whatsapp ✅')
+  console.log('[🛸] Techsync Plugins Installed Successfully ✅')
+  console.log('[🌟] Techsync Connected To Whatsapp ✅')
   
-  let up = `*𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 !! ✅*
+  let up = `*Techsync-MD 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 ✅*
   
 ╭───────────────┈⊷
-│• 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘 •
-│• ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ •
+│• *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘* •
+│• *ᴇɴᴊᴏʏ ᴜsɪɴɢ ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ* •
 ├───┈⊷
-│• 📜𝐏𝐑𝐄𝐅𝐈𝐗 : .
-│• 🏷𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑 : ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀsᴇ
-│• 🍁𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : ᴍᴠᴇʟᴀsᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ
-│• 🌏𝐌𝐎𝐃𝐄 : ᴘᴜʙʟɪᴄ
-│• 🔰𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 3.0.0 
+│• *📜𝐏𝐑𝐄𝐅𝐈𝐗 : !*
+│• *🏷𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑 : ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀsᴇ*
+│• *🍁𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : ᴍᴠᴇʟᴀsᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ*
+│• *🌏𝐌𝐎𝐃𝐄 : ᴘᴜʙʟɪᴄ*
+│• *🔰𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 3.0.0 *
 ┗───────────────┈⊷
 
 *ᴛᴇᴄʜ𝐬ʏɴᴄ ᴛʜᴇ ʙᴇsᴛ ʙᴏᴛ ɪɴ ᴛʜᴇ ᴡᴏʀʟᴅ ᴄᴏᴅᴇᴅ ʙʏ ᴍᴠᴇʟᴀsᴇ ᴛᴇᴄʜ ʜᴜʙ.*
@@ -260,7 +260,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("263717777643") && !isReact) {
+if (senderNumber.includes("263771912275") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
@@ -781,7 +781,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("Techsync STARTED ✅");
+  res.send("Techsync-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {

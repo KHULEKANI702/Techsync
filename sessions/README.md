@@ -1,2 +1,1 @@
-![MVELASE](https://files.catbox.moe/sdv3qh.png)
-
+![Techsync](https://files.catbox.moe/jt3qb1.png)

@@ -34,7 +34,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/sdv3qh.png"
+      "value": "https://files.catbox.moe/jt3qb1.png"
     },
       
     "LIVE_MSG": {

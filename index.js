@@ -128,7 +128,7 @@ const port = process.env.PORT || 9090;
 *ᴛᴇᴄʜ𝐬ʏɴᴄ ᴛʜᴇ ʙᴇsᴛ ʙᴏᴛ ɪɴ ᴛʜᴇ ᴡᴏʀʟᴅ ᴄᴏᴅᴇᴅ ʙʏ ᴍᴠᴇʟᴀsᴇ ᴛᴇᴄʜ ʜᴜʙ.*
 
 *ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ*`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/nrex3k.png` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/myz3w6.png` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)

@@ -33,7 +33,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀs�
 
 DESCRIPTION: process.env.DESCRIPTION || "⃞ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ-ʙᴏᴛ",
     
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/sdv3qh.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/jt3qb1.png",
 
 LIVE_MSG: process.env.LIVE_MSG || "𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫 𝑰𝑺 𝑨𝑳𝑰𝑽𝑬 𝑵𝑶𝑾 𝑨𝑵𝑫 𝑭𝑶𝑹𝑬𝑽𝑬𝑹.⚡",
  

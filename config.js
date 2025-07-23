@@ -27,7 +27,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "☠️,⏳️,⚡️,�
 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263717777643",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263771912275",
 
 OWNER_NAME: process.env.OWNER_NAME || "ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀsᴇ",
 
@@ -61,7 +61,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
    
 READ_CMD: process.env.READ_CMD || "false",
  
-DEV: process.env.DEV || "263782627612",
+DEV: process.env.DEV || "263771912275",
         
 ANTI_VV: process.env.ANTI_VV || "true",
  

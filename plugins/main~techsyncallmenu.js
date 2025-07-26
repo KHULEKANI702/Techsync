@@ -42,10 +42,10 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭───⟮ *${config.BOT_NAME}* ⟯──┈⊷
-│• *ʜᴇʟʟᴏ* 👋 *${m.pushName}*
+│• *ʜᴇʟʟᴏ* *${m.pushName}*
 ┗─┬─⊷   
 ╭─┴─⊷
-│⚙ *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎. ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ʙᴏᴛ*
+│⚙ *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ʙᴏᴛ*
 ┗─────────────────┈⊷
 
 > *ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ-ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴠᴇʟᴀsᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ*

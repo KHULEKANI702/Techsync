@@ -43,7 +43,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 
 ANTI_BAD: process.env.ANTI_BAD || "true",
   
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
  
 ANTI_LINK: process.env.ANTI_LINK || "true",
  

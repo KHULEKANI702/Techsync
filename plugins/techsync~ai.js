@@ -88,7 +88,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363411325763461@newsletter',
-                    newsletterName: '*ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ ᴀɪ*',
+                    newsletterName: 'Techsync~MD',
                     serverMessageId: 143
                 }
             }

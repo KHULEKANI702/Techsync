@@ -7,7 +7,7 @@
 
 > `𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝟏.`
 <p align="center">
-<a href="https://techsync-pair8.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
+<a href="https://techsync-pair9.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
 <p/>
   
 > `𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝟐 𝐈𝐅 𝟏 𝐍𝐎𝐓 𝐖𝐎𝐑𝐊𝐈𝐍𝐆.`

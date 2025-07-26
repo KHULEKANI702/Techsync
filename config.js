@@ -9,11 +9,11 @@ SESSION_ID: process.env.SESSION_ID || "paste your session id here",
  
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
  
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
  
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝒀𝑶𝑼𝑹 𝑺𝑻𝑨𝑻𝑼𝑺 𝑯𝑨𝑺 𝑩𝑬𝑬𝑵 𝑽𝑰𝑬𝑾𝑬𝑫 𝑱𝑼𝑺𝑻 𝑵𝑶𝑾 𝑩𝒀 𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫-𝑩𝑶𝑻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝒀𝑶𝑼𝑹 𝑺𝑻𝑨𝑻𝑼𝑺 𝑯𝑨𝑺 𝑩𝑬𝑬𝑵 𝑽𝑰𝑬𝑾𝑬𝑫 𝑩𝒀 𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫-𝑩𝑶𝑻*",
   
 PREFIX: process.env.PREFIX || "!",
    

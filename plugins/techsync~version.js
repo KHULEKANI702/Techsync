@@ -56,7 +56,7 @@ cmd({
     const githubRepo = 'https://github.com/mvelase-ofc/Techsync';
 
     // Check update status
-    let updateMessage = `*✅ 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐈𝐒 𝐔𝐏 𝐓𝐎 𝐃𝐀𝐓𝐄*`;
+    let updateMessage = `✅ 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐈𝐒 𝐔𝐏 𝐓𝐎 𝐃𝐀𝐓𝐄`;
     if (localVersion !== latestVersion) {
       updateMessage = `*🚀 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐈𝐒 𝐎𝐔𝐓-𝐃𝐀𝐓𝐄𝐃!*
 🔸 *𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐕𝐄𝐑𝐒𝐈𝐎𝐍* : *${localVersion}*
@@ -65,10 +65,10 @@ cmd({
 *𝐔𝐒𝐄 !𝐔𝐏𝐃𝐀𝐓𝐄 𝐓𝐎 𝐔𝐏𝐃𝐀𝐓𝐄 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃*`;
     }
 
-    const statusMessage = `🌟 *𝐆𝐎𝐎𝐃* ${new Date().getHours() < 12 ? '𝐌𝐎𝐑𝐍𝐈𝐍𝐆' : '𝐍𝐈𝐆𝐇𝐓'}, *${pushname}!* 🌟\n\n` +
+    const statusMessage = `🌟 *𝐆𝐎𝐎𝐃* ${new Date().getHours() < 12 ? '*𝐌𝐎𝐑𝐍𝐈𝐍𝐆*' : '*𝐍𝐈𝐆𝐇𝐓*'}, *${pushname}!* 🌟\n\n` +
       `📌 *𝐁𝐎𝐓-𝐍𝐀𝐌𝐄 : 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃*\n🔖 *𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐕𝐄𝐑𝐒𝐈𝐎𝐍* *:${localVersion}*\n📢 *𝐋𝐀𝐓𝐄𝐒𝐓 𝐕𝐄𝐑𝐒𝐈𝐎𝐍* : *${latestVersion}*\n📂 *𝐓𝐎𝐓𝐀𝐋 𝐏𝐋𝐔𝐆𝐈𝐍𝐒* : *${pluginCount}*\n🔢 *𝐓𝐎𝐓𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒* : *${totalCommands}*\n\n` +
       `💾 *System Info:*\n⏳ *𝐔𝐏𝐓𝐈𝐌𝐄* : *${uptime}*\n📟 𝐑𝐀𝐌-𝐔𝐒𝐀𝐆𝐄 *:${ramUsage}𝐌𝐁 / ${totalRam}𝐌𝐁*\n⚙️ *𝐇𝐎𝐒𝐓-𝐍𝐀𝐌𝐄* : *${hostName}*\n📅 *𝐋𝐀𝐒𝐓 𝐔𝐏𝐃𝐀𝐓𝐄* : *${lastUpdate}*\n\n` +
-      `📝 *𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆* : \n*${latestChangelog}*\n\n` +
+      `📝 *𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆* : \n${latestChangelog}\n\n` +
       `⭐ *𝐆𝐈𝐓𝐇𝐔𝐁 𝐑𝐄𝐏𝐎* : *wa.me/263717777643*\n\n*${updateMessage}*\n\n🚀 *𝐇𝐄𝐋𝐋𝐎 𝐃𝐎𝐍'𝐓 𝐅𝐎𝐑𝐆𝐄𝐓 𝐓𝐎 𝐒𝐓𝐀𝐑 & 𝐅𝐎𝐑𝐊 𝐌𝐘 𝐑𝐄𝐏𝐎*`;
 
     // Send the status message with an image

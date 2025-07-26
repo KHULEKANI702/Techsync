@@ -44,9 +44,9 @@ cmd({
     reply
 }) => {
     try {
-        if (!isGroup) return reply("❌ *This command can only be used in groups.*");
-        if (!isAdmins && !isOwner) return reply("❌ *Only group admins or the owner can use this command.*");
-        if (!isBotAdmins) return reply("❌ *I need admin privileges to promote members.*");
+        if (!isGroup) return reply("❌ *`This command can only be used in groups.`*");
+        if (!isAdmins && !isOwner) return reply("❌ *`Only group admins or the owner can use this command.`*");
+        if (!isBotAdmins) return reply("❌ *`I need admin privileges to promote members.`*");
 
         // ➡️ Détecter le participant à promouvoir (en réponse ou mention)
         let target;
@@ -58,17 +58,17 @@ cmd({
             target = m.msg.contextInfo.mentionedJid[0];
         }
 
-        if (!target) return reply("❌ *Please mention or reply to a user to promote.*");
+        if (!target) return reply("❌ *`Please mention or reply to a user to promote.`*");
 
         // ➡️ Vérifier si l'utilisateur est déjà admin
         const isAlreadyAdmin = participants.some(p => p.id === target && p.admin !== null);
-        if (isAlreadyAdmin) return reply("❗*User is already an admin.*");
+        if (isAlreadyAdmin) return reply("*`User is already an admin`.*");
 
         // ➡️ Promouvoir le participant
         await conn.groupParticipantsUpdate(from, [target], "promote")
             .catch(err => {
                 console.error(`⚠️ *Failed to promote ${target}:*`, err);
-                return reply("❌ *An error occurred while promoting the participant.*");
+                return reply("❌ *`An error occurred while promoting the participant.`*");
             });
 
         // ➡️ Extraire le tag à partir du JID
@@ -77,7 +77,7 @@ cmd({
 
     } catch (error) {
         console.error('Error while executing promote:', error);
-        reply('❌ An error occurred while executing the command.');
+        reply('❌ *An error occurred while executing the command.*');
     }
 });
 

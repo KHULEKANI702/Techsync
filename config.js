@@ -29,7 +29,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "263771912275",
 
-OWNER_NAME: process.env.OWNER_NAME || "*ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀsᴇ*",
+OWNER_NAME: process.env.OWNER_NAME || "𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊 𝑫𝒖𝒃𝒆",
 
 DESCRIPTION: process.env.DESCRIPTION || "⃞ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ-ʙᴏᴛ",
     

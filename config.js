@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "paste your session id here",
+SESSION_ID: process.env.SESSION_ID || "malvin~Yu9jGSRS#uEGefVfYq8DWMru6t-Ok7sBw9VjhWTsvmY0ae1C1iPA",
  
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 
@@ -13,9 +13,9 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
  
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
  
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝒀𝑶𝑼𝑹 𝑺𝑻𝑨𝑻𝑼𝑺 𝑯𝑨𝑺 𝑩𝑬𝑬𝑵 𝑽𝑰𝑬𝑾𝑬𝑫 𝑩𝒀 𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫-𝑩𝑶𝑻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "𝒀𝑶𝑼𝑹 𝑺𝑻𝑨𝑻𝑼𝑺 𝑯𝑨𝑺 𝑩𝑬𝑬𝑵 𝑽𝑰𝑬𝑾𝑬𝑫 𝑩𝒀 𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫-𝑩𝑶𝑻",
   
-PREFIX: process.env.PREFIX || "!",
+PREFIX: process.env.PREFIX || "#",
    
 BOT_NAME: process.env.BOT_NAME || "ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ",
 
@@ -27,7 +27,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "☠️,⏳️,⚡️,�
 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263771912275",
+ONER_NUMBER: process.env.OWNER_NUMBER || "263717777643",
 
 OWNER_NAME: process.env.OWNER_NAME || "𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊 𝑫𝒖𝒃𝒆",
 
@@ -57,11 +57,11 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
  
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
    
 READ_CMD: process.env.READ_CMD || "false",
  
-DEV: process.env.DEV || "263771912275",
+DEV: process.env.DEV || "263717777643",
         
 ANTI_VV: process.env.ANTI_VV || "true",
  

@@ -1,8 +1,8 @@
 {
-  "name": "ZORAIB-XD",
-  "description": "Javascript WhatsApp bot made by ZORAIB-XD Official",
-  "logo": "https://files.catbox.moe/yrpxq6.jpg",
-  "keywords": ["ZORAIB-XD"],
+  "name": "mvelase-ofc",
+  "description": "Javascript WhatsApp bot made by mvelase-ofc developers",
+  "logo": "https://files.catbox.moe/jt3qb1.png",
+  "keywords": ["mvelase-ofc"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ZORAIB-XD"
+      "value": "mvelase-ofc"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ZORAIB-XD 🖤*"
+      "value": "*SEEN YOUR STATUS BY Techsync🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ZORAIB-XD Official"
+      "value": "Techsync"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "+923357304126"
+      "value": "+263784533715"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ZORAIB-XD"
+      "value": "Techsync"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/yrpxq6.jpg"
+      "value": "https://files.catbox.moe/jt3qb1.png"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER ZORAIB-XD*"
+      "value": "*CREATER mvelase-ofc*"
     },
 
       "DELETE_LINKS": {

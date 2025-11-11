@@ -78,14 +78,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY Techsync🖤*"
+      "value": "```SEEN YOUR STATUS BY Techsync🖤```"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Techsync"
+      "value": "ᴋʜᴜʟᴇᴋᴀɴɪ ᴍᴠᴇʟᴀsᴇ"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "Techsync"
+      "value": "ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ"
 
       }, 
 
@@ -106,14 +106,6 @@
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
-      
-    },
-
-     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "true"
-      
     },
     
     "ANTI_BAD": {
@@ -122,22 +114,22 @@
       "value": "false"
     },
 
-   "MENTION_REPLY": {
-      "description": "make it true if want mention reply if someone menetion you.",
-      "required": false,
-      "value": "false"
-    },
-    
-    "MENU_IMAGE_URL": {
-      "description": "add url for mention reply and menu if want.",
-      "required": false,
+    "ALIVE_IMG": {
+      "description": "paste your image url if you don't have you can use this public url.",
+      "required": ,
       "value": "https://files.catbox.moe/jt3qb1.png"
     },
-    
+      
+    "LIVE_MSG": {
+      "description": "paste your alive message hear.",
+      "required": false,
+      "value": "𝑻𝑬𝑪𝑯𝑺𝒀𝑵𝑪-𝑴𝑫 𝑰𝑺 𝑨𝑳𝑰𝑽𝑬 𝑵𝑶𝑾 𝑨𝑵𝑫 𝑭𝑶𝑹𝑬𝑽𝑬𝑹.⚡"
+    },
+   
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER mvelase-ofc*"
+      "value": "⃞ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ-ʙᴏᴛ"
     },
 
       "DELETE_LINKS": {
@@ -163,30 +155,25 @@
       "required": false,
       "value": "true"
     },
-
-        "CUSTOM_REACT": {
+    
+    "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": true,
+      "required": false,
       "value": "true"
+      
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": true,
+      "required": false,
       "value": "☠️,⏳️,⚡️,🚀,🤖,🌏,🌟,💫,🎭,🗿,🔰,⚠️",
-    },   
+    }, 
     
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
       "required": false,
       "value": "inbox"
     }, 
-
-    "ADMIN_EVENTS": {
-      "description": "make it true if want know who promote or demote a member .",
-      "required": false,
-      "value": "false"
-    },
 
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",

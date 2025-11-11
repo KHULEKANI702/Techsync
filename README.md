@@ -1,85 +1,39 @@
+> `𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃`
 
-<div align="center">
-  
-<h2 style="color:#3498DB">𝗧𝗲𝗰𝗵𝘀𝘆𝗻𝗰-𝗠𝗗 </h2>
-<h4 style="color:#3498DB">𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝘄𝗮 𝗯𝗼𝘁 𝘄𝗶𝘁𝗵 +100 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀</h4>
 
-</div>
-
-<!-- Glowing CTA Button -->
-<a href="https://github.com/Zaibi448/ZORAIB-XD">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF9D00&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=%F0%9F%94%A5+FORK+%F0%9F%8D%B4+%26+STAR+%F0%9F%8C%9F+TO+SUPPORT+%F0%9F%94%A5" alt="CTA">
-</a>
-
-</div>
-```
----
-
-> **𝗧𝗘𝗖𝗛𝗦𝗬𝗡𝗖-𝗠𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 `4.7.0 ⚡`**
----
+![Techsync](https://files.catbox.moe/jt3qb1.png)
 
 
 
-
-
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zaibi448?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zaibi448/ZORAIB-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zaibi448/ZORAIB-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zaibi448/ZORAIB-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zaibi448/ZORAIB-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Zaibi448/ZORAIB-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/ZORAIB-XD/ZORAIB-BOT?style=flat-square&color=green"></a>
-<a href="https://github.com/Zaibi448/ZORAIB-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
+> `𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝟏.`
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&pause=1000&color=5865F2&center=true&width=800&height=80&lines=MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ZORAIB+KASHMIRI" alt="Bot Intro">
-</p>
+<a href="https://techsync-pair9.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
+<p/>
   
---- 
+> `𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝟐 𝐈𝐅 𝟏 𝐍𝐎𝐓 𝐖𝐎𝐑𝐊𝐈𝐍𝐆.`
+  
+<p align="center">
+<a href="https://techsync-pair9.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
+<p/>
+ 
+> `𝐓𝐇𝐈𝐒 𝐁𝐎𝐓 𝐂𝐀𝐋𝐋𝐄𝐃 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐖𝐀𝐒 𝐂𝐎𝐃𝐄𝐃 𝐎𝐑 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐓𝐄𝐂𝐇 𝐇𝐔𝐁.`
 
-<a center="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/l0087k.jpg" alt="glow" border="0"></a>
-***
-
-
-
-
-### 1. FORK THIS REPOSITORY🌝🤏
-
-`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
-
-  <a href="https://github.com/Zaibi448/ZORAIB-XD/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-ZORAIB%20XD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
-
-> **1. PAIR CODE SESSION ID**
-
-<a href='https://tranquil-castle-69730-94f78752beee.herokuapp.com/pair' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **2. PAIR CODE SESSION ID**
-
-<a href='https://tranquil-castle-69730-94f78752beee.herokuapp.com/pair' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-
+> `𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔`
+### <h2 align="">TECHSYNC DEPLOYMENT OPTIONS</h2>
 
 ---
 
-### <h2 align="">ZORAIB-XD DEPLOYMENT OPTIONS𐃁</h2>
-
----
-
-<p align="center">Deploy your <strong>ZORAIB-XD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>Techsync Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
     <tr>
       <td><a href="https://vps-site-555d32e92251.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/FREE-VPS-FFA500?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Zaibi448/ZORAIB-XD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mvelase-ofc/Techsync" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
     </tr>
     <tr>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ZORAIB-XD/ZORAIB-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Techsync/Techsync" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
@@ -94,7 +48,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Zaibi448/ZORAIB-XD" target="_blank">
+      <a href="https://github.com/mvelase-ofc/Techsync" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -104,7 +58,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Zaibi448/ZORAIB-XD" target="_blank">
+      <a href="https://github.com/mvelase-ofc/Techsync" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -113,17 +67,7 @@
 
 <hr>
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
----
-
-## ✨ Key Features
-<div align="center">
-
-| Category       | Features                                                                 |
-|----------------|--------------------------------------------------------------------------|
-| **`🌐 Core`**       | `📱` Multi-Device Support • `↩️` Anti-Delete • `🤖` AI Chatbot                          |
-| **`🎨 Media`**      | `▶️` YouTube Downloader • `📸` Instagram/TikTok DL • `🖼️` Sticker Maker         |
-| **`👥 Group`**      | `🛡️` Moderation • `✨` Auto-Sticker • `🎮` Games • `👮` Admin Tools    |
-| **`⚙️ Utilities`**  | `🌐` Web Pairing • `🔑` QR Login • `📢` Broadcast • `➕` More!                 |
+---| **`⚙️ Utilities`**  | `🌐` Web Pairing • `🔑` QR Login • `📢` Broadcast • `➕` More!                 |
 
 </div>
 ---
